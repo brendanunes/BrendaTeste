@@ -1,0 +1,13 @@
+Instruções para execução do teste:
+
+- Instalar visual studio 2017
+- Abrir o programa
+- Clicar em Abrir pasta
+- Abrir pasta do projeto
+- Clicar com o lado direito do mouse em cima de "ProjetoBrenda"
+	- Clicar em "Gerênciar pacotes do NuGet"
+		- Instalar Selenium.Webdriver
+		- Selenium.Support
+		- Webdriver.ChromeDriver.Win32
+	
+- Do lado esquerdo, clicar em "Executar Tudo" 
